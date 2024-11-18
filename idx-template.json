@@ -1,0 +1,28 @@
+{
+    "name": "Drift",
+    "description": "Drift examples",
+    "categories": ["Mobile"],
+    "icon": "https://www.gstatic.com/images/branding/productlogos/flutter/v6/192px.svg",
+    "publisher": "Rody Davis",
+    "host": {
+      "virtualization": true
+    },
+    "params": [
+      {
+        "id": "example",
+        "name": "Example",
+        "type": "enum",
+        "default": "app",
+        "options": {
+          "app": "Cross-platform app",
+          "encryption": "Simple encrypted database",
+          "migrations_example": "Examples for test utilities using migrations",
+          "modular": "Example showing upcoming modular feature",
+          "with_built_value": "Example with build_runner and built value",
+          "multi_package": "Example with client, server and shared folders",
+          "flutter_web_worker_example": "Asynchronously run a drift database through a web worker (Flutter)",
+          "web_worker_example": "Asynchronously run a drift database through a web worker (Non-Flutter)"
+        }
+      }
+    ]
+  }

@@ -1,5 +1,9 @@
 ## Examples using drift
 
+<a href="https://idx.google.com/new?template=https://github.com/simolus3/drift">
+  <img height="32" alt="Try in IDX" src="https://cdn.idx.dev/btn/try_dark_32.svg">
+</a>
+
 This collection of examples demonstrates how to use some advanced drift features.
 
 - `app`: A cross-platform Flutter app built with recommended drift options.
